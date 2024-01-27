@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac635b1-faed-4dee-a1ed-4509617cf665" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTakToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controllers/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/BotDifficultyLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/BotPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/CellStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/PlayerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/BoardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/GameService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/WinningStrategy/ColWinningStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/WinningStrategy/DiagonalWinningStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/WinningStrategy/RowWinningStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/WinningStrategy/WinningStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/bot/BotPlayingStrategyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/bot/BotStrategyLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/bot/EasyBotPlayingStrategy.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ac635b1-faed-4dee-a1ed-4509617cf665" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706277674418</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1706369848924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706369848924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
